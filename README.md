@@ -1,5 +1,7 @@
 # Tableau Data Analytics
 
+**Video :** https://www.linkedin.com/posts/ahamed-jazira2301_tableau-dashboarddesign-dataanalytics-activity-7353619581225103362-yCL5?utm_source=share&utm_medium=member_android&rcm=ACoAAEeCTEYBM5NdEGL6hd78YDEWofD4Bl5S1cc
+
 ## Overview
 This repository contains a Tableau dashboard visualizing **sales, tax, and profit data** across different products, years, and countries.
 
